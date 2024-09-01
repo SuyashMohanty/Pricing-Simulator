@@ -34,10 +34,5 @@ This dashboard tab provides a comprehensive view of price optimization strategie
 - **Objective**: Analyze the impact of price changes on profit margin for each segment.
 - **Action**: Balance revenue maximization with maintaining or improving profit margins.
 
-## Additional Considerations:
-
-- **Competitive Analysis**: Consider the pricing strategies of competitors to ensure competitive positioning.
-- **Cost Analysis**: Factor in production costs and other expenses when setting optimal prices.
-- **Customer Value Perception**: Evaluate how customers perceive the value of the product or service at different price points.
 
 By leveraging the insights from this dashboard, businesses can make informed pricing decisions to drive sales, increase profitability, and enhance customer satisfaction.
